@@ -2,26 +2,26 @@
   {
     "id": "1",
     "title": "Sfondo 1",
-    "uri": "require('../mp4/6def4abc9ab411efa13f7e118b2b91ec.mp4')"
+    "uri": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/video%2F6def4abc9ab411efa13f7e118b2b91ec.mp4?alt=media&token=42391c4d-f92a-4db6-bc8b-25d886e3fbe0"
   },
   {
     "id": "2",
     "title": "Sfondo 2",
-    "uri": "require('../mp4/invideo-ai-1080 Mesmerizing Fishes Swimming in an Aquari 2024-11-04.mp4')"
+    "uri": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/video%2Finvideo-ai-1080%20Mesmerizing%20Fishes%20Swimming%20in%20an%20Aquari%202024-11-04.mp4?alt=media&token=e80f2eef-81a3-42f2-a14e-a047cf1285e1"
   },
   {
     "id": "3",
     "title": "Sfondo 3",
-    "uri": "require('../mp4/videoplayback_1.mp4')"
+    "uri": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/video%2Fvideoplayback_1.mp4?alt=media&token=e4fb08e1-fcf1-4740-86d0-a3447f988ae2"
   },
   {
     "id": "4",
     "title": "Sfondo 4",
-    "uri": "require('../mp4/videoplayback_2.mp4')"
+    "uri": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/video%2Fvideoplayback_2.mp4?alt=media&token=d37b954c-a0d9-4c89-b20b-2876f093be16"
   },
   {
     "id": "5",
     "title": "Sfondo 5",
-    "uri": "require('../mp4/videoplayback_3.mp4')"
+    "uri": "https://firebasestorage.googleapis.com/v0/b/myphoto-4bdfd.appspot.com/o/video%2Fvideoplayback_3.mp4?alt=media&token=40f9fb79-cb25-4a3d-b8a7-0a0fe5b0711c"
   }
 ]
